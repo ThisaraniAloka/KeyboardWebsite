@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Fewer"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Reprehenderit proident id culpa laboris pariatur excepteur ullamco esse reprehenderit ad reprehenderit occaecat duis reprehenderit. Sunt quis exercitation eu aliqua laborum amet irure sit et minim aliquip veniam."
+						}
+					}
+				]
+			},
+			"buy_button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "blanket",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
